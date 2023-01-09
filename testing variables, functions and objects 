@@ -1,0 +1,28 @@
+let person = {
+    name: 'koyin' ,
+    likes: 'money'
+};
+
+person.name;
+person.likes;
+
+person.likes = 'cash';
+
+let personA = {
+name: 'chicken',
+age: '27',
+location:'lagos',
+likes:'faji'
+};
+
+
+let PersonB ={
+    Name: 'yolanda',
+    age:'99',
+    location: 'cincinate',
+    likes: 'puppies'
+
+
+}
+
+
